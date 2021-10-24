@@ -49,8 +49,10 @@ Create a Heroku account and login. You can log in the CLI with `heroku login -i`
 #### Deploy from this Github
 
 1. Click this button below to deploy directly from this github repository: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ClaudeF4491/risk-metric-dashboard/tree/main)
-2. Provide it a unique project name. This will be in your URL
-3.
+2. Provide it a unique project name. This will be in your URL. e.g. `risk-metric-dash-20211024-001`
+3. Under `API_KEY_QUANDL`, insert the API key from above.
+4. Press `Deploy App`
+5. Wait until loads, and test the URL provided. The first load will be slower since it is caching data.
 
 #### Deploy from your codebase
 
