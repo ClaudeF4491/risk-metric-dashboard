@@ -1,0 +1,20 @@
+{
+    "name": "Risk Metric Dashboard",
+    "description": "Dashboard to render charts for Crypto risk metrics. See readme on github for details.",
+    "keywords": [],
+    "website": "https://github.com/ClaudeF4491/risk-metric-dashboard",
+    "repository": "https://github.com/ClaudeF4491/risk-metric-dashboard",
+    "success_url": "/",
+    "env": {
+      "API_KEY_QUANDL": {
+        "description": "API Key for accessing Quandl data. See README of repo.",
+        "generator": "secret"
+      }
+    },
+    "formation": {
+      "web": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
