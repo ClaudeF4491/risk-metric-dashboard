@@ -1,0 +1,8 @@
+yfinance
+quandl
+plotly
+dash
+flask-caching
+redis
+scikit-learn
+gunicorn
