@@ -8,7 +8,7 @@
     "env": {
       "API_KEY_QUANDL": {
         "description": "API Key for accessing Quandl data. See README of repo.",
-        "generator": "secret"
+        "required": true
       }
     },
     "formation": {
