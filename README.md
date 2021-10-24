@@ -48,7 +48,7 @@ Create a Heroku account and login. You can log in the CLI with `heroku login -i`
 
 #### Deploy from this Github
 
-1. Click this button below to deploy directly from this github repository: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ClaudeF4491/risk-metric-dashboard/tree/master)
+1. Click this button below to deploy directly from this github repository: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ClaudeF4491/risk-metric-dashboard/tree/main)
 2. Provide it a unique project name. This will be in your URL
 3.
 
